@@ -1,7 +1,7 @@
 # SuzzyReborn
 Suzzy - MultiPlugin Telegram bot Reborn version :)
 
-#Thanks to:
+# Thanks to:
 
 [@Webshark25](http://t.me/webshark25)
 
@@ -10,7 +10,7 @@ Suzzy - MultiPlugin Telegram bot Reborn version :)
 
 call me on telegram : [Mrhalix](http://t.me/NoobSaG)
 
-#Powered by:
+# Powered by:
 
 
 a big thanks to [iTeam](https://t.me/iTeam_ir)
