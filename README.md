@@ -8,7 +8,7 @@ Suzzy - MultiPlugin Telegram bot Reborn version :)
 [@AmirSbss](http://t.me/AmirSbss)
 
 
-**call me on telegram : **[Mrhalix](http://t.me/NoobSaG)
+call me on telegram : [Mrhalix](http://t.me/NoobSaG)
 
 #Powered by:
 
